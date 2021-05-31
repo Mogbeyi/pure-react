@@ -1,10 +1,18 @@
 import React from "react";
 import ReactDom from "react-dom";
 
+function Hello() {
+  return <span>Hello</span>;
+}
+
+function World() {
+  return <span>World</span>;
+}
+
 function HelloWorld() {
   return (
     <div>
-      <h1>Hello world!</h1>
+      <Hello /> <World />
     </div>
   );
 }
