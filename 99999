@@ -17,3 +17,7 @@
 : 1622474591:0;ls
 : 1622474606:0;git status -s
 : 1622474621:0;git add .
+: 1622474636:0;git commit -m "Set up tweet project"
+: 1622474638:0;clear
+: 1622474699:0;ls
+: 1622474705:0;cd tweet
