@@ -24,3 +24,16 @@
 : 1622474900:0;ls
 : 1622474912:0;code tweet
 : 1622475703:0;ls
+: 1622524457:0;history | tr âƒ¨ƒ²cs Aâƒ¨ƒ²Zaâƒ¨ƒ²z '\n' | tr Aâƒ¨ƒ²Z aâƒ¨ƒ²z | sort | uniq âƒ¨ƒ²c | sort âƒ¨ƒ²rn
+: 1622524468:0;history 
+: 1622524472:0;history | tr âƒ¨ƒ²cs Aâƒ¨ƒ²Zaâƒ¨ƒ²z '\n' | tr Aâƒ¨ƒ²Z aâƒ¨ƒ²z | sort | uniq âƒ¨ƒ²c | sort âƒ¨ƒ²rn
+: 1622526241:0;clear
+: 1622526244:0;git diff
+: 1622526251:0;clear
+: 1622526255:0;cp -a static-tweet props-tweet && cd props-tweet
+: 1622526257:0;ls
+: 1622526303:0;mv tweet static-tweet
+: 1622526305:0;ls
+: 1622526308:0;git diff
+: 1622526313:0;ls
+: 1622526318:0;cp -a static-tweet props-tweet && cd props-tweet
