@@ -1,14 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import PropTypes from 'prop-types'
+import './index.css'
 
 const FileList = ({files}) => (
     <table className="file-list">
         <tbody>
             {files.map(file => (
-                <tr className="file-list-item" key={file.id}>
-                    <td className="file-name">{file.name}</td>
-                </tr>
+                <FileListItem file={file} key={file.id} />
             ))}
         </tbody>
     </table>
@@ -17,6 +16,17 @@ const FileList = ({files}) => (
 FileList.propTypes = {
     files: PropTypes.array
 }
+
+const FileListItem = ({file}) => (
+    <tr className="file-list-item>">
+        <td className="file-name">{file.name}</td>
+    </tr>
+)
+
+FileListItem.propTypes = {
+    file: PropTypes.object.isRequired
+}
+
 
 const testFiles = [ {
     id: 1,
