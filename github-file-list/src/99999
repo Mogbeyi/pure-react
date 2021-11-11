@@ -2,3 +2,7 @@
 : 1636569048:0;clear
 : 1636569048:0;ls
 : 1636569103:0;npm start
+: 1636610923:0;touch .prettierrc
+: 1636610933:0;echo {} >> .prettierrc
+: 1636610951:0;clear
+: 1636610954:0;git add .
