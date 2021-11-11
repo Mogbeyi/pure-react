@@ -58,3 +58,29 @@
 : 1636584407:0;clear
 : 1636584408:0;ls
 : 1636584415:0;git add .
+: 1636584434:0;git commit -m "Add styles and filelistItem component\
+"
+: 1636584436:0;git push
+: 1636610526:0;ls
+: 1636610527:0;clear
+: 1636610528:0;ls
+: 1636610547:0;clear
+: 1636610552:0;cd ../..
+: 1636610593:0;ls
+: 1636610603:0;npm i prettier -D
+: 1636610624:0;yarn i prettier -D
+: 1636610635:0;yarn install prettier -D
+: 1636610650:0;yarn add prettier -D
+: 1636610906:0;ls
+: 1636610910:0;cd src
+: 1636612942:0;ls
+: 1636612951:0;git status -s
+: 1636612959:0;ls
+: 1636612964:0;cd src
+: 1636613060:0;ls
+: 1636613067:0;npm install moment
+: 1636613085:0;yarn add moment
+: 1636613659:0;ls
+: 1636613675:0;touch src/Time.js
+: 1636613677:0;ls src
+: 1636613892:0;git commit -am "Create time component"

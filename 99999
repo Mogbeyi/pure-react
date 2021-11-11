@@ -37,3 +37,100 @@
 : 1622526308:0;git diff
 : 1622526313:0;ls
 : 1622526318:0;cp -a static-tweet props-tweet && cd props-tweet
+: 1622555390:0;ls
+: 1622555396:0;cd ../..
+: 1623461481:0;ls
+: 1623461504:0;cp -a static-tweet props-tweet && cd props-tweet
+: 1623463819:0;ls
+: 1623463914:0;git diff
+: 1623463920:0;ls
+: 1623463929:0;git status -s
+: 1623463951:0;git log --oneline
+: 1623463968:0;git reset hard aa381d8
+: 1623463984:0;git reset aa381d8
+: 1623463993:0;git diff
+: 1623463996:0;ls
+: 1623464000:0;vim props-tweet
+: 1623464018:0;clear
+: 1623464020:0;cd ..
+: 1624209389:0;ls
+: 1624209402:0;code proptypes-tweet
+: 1624209430:0;ls
+: 1624227524:0;clear
+: 1624227525:0;python
+: 1624227584:0;clear
+: 1624281414:0;python
+: 1624281585:0;clear
+: 1624281741:0;python
+: 1624281835:0;clear
+: 1624302273:0;ls
+: 1624302275:0;cd ../..
+: 1624869207:0;ls
+: 1624869217:0;cd static-tweet
+: 1624869224:0;git log --oneline
+: 1624869255:0;ls | xargs ls
+: 1624869267:0;cd ../..
+: 1624871061:0;ls
+: 1624871070:0;code proptypes-tweet
+: 1624885521:0;ls
+: 1624885524:0;wc 99999
+: 1624885526:0;clear
+: 1624885527:0;ls
+: 1624885529:0;ls 
+: 1624885531:0;ls | wc
+: 1624885549:0;ls
+: 1624885552:0;ls props-tweet
+: 1624885558:0;cd props-tweet
+: 1624885571:0;ls
+: 1624885578:0;clear
+: 1624887851:0;ls
+: 1624887852:0;cd ..
+: 1636502523:0;ls
+: 1636502531:0;git log
+: 1636502538:0;ls
+: 1636502544:0;git origin
+: 1636502549:0;cd ..
+: 1636502657:0;git remote show origin
+: 1636502662:0;ls
+: 1636502779:0;ls -a
+: 1636502787:0;cd props-tweet
+: 1636502805:0;ls -a
+: 1636502813:0;clear
+: 1636502814:0;ls
+: 1636502815:0;ls -a
+: 1636502834:0;cd react-hello
+: 1636502899:0;ls
+: 1636502907:0;ls -a
+: 1636502914:0;git remote add origin https://github.com/Mogbeyi/pure-react.git
+: 1636502923:0;git branch -M main
+: 1636502934:0;git push -u origin main
+: 1636502943:0;clea
+: 1636502945:0;clear
+: 1636511169:0;cd ..
+: 1636513979:0;ls
+: 1636514054:0;create-react-app github-file-list
+: 1636514147:0;ls
+: 1636514151:0;cd github-file-list
+: 1636514165:0;ls
+: 1636514169:0;ls -a
+: 1636514180:0;cd github-file-list
+: 1636514228:0;ls
+: 1636514233:0;ls -a
+: 1636514237:0;cd github-file-list
+: 1636514487:0;ls
+: 1636514505:0;cd props-tweet
+: 1636515634:0;ls
+: 1636515636:0;cd github-file-list
+: 1636515649:0;ls
+: 1636515651:0;cd github-file-list
+: 1636515749:0;ls
+: 1636515752:0;code github-file-list
+: 1636549291:0;python
+: 1636549337:0;clear
+: 1636584007:0;npm start
+: 1636584010:0;ls
+: 1636584011:0;clear
+: 1636584012:0;ls
+: 1636584013:0;cd github-file-list
+: 1636612939:0;ls
+: 1636612941:0;cd github-file-list
