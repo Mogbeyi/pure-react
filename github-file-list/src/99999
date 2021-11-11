@@ -20,3 +20,32 @@
 : 1636613058:0;clear
 : 1636613058:0;ls
 : 1636613060:0;cd ..
+: 1636625841:0;clear
+: 1636625842:0;ls
+: 1636625850:0;mkdir components
+: 1636625875:0;touch App.js
+: 1636625898:0;ls
+: 1636625958:0;ls
+: 1636625969:0;mv Time.js components
+: 1636625970:0;ls
+: 1636625977:0;cd components
+: 1636626007:0;ls
+: 1636626021:0;touch testFiles.js
+: 1636626024:0;ls
+: 1636626026:0;cd components
+: 1636626113:0;ls
+: 1636626171:0;clear
+: 1636626479:0;ls
+: 1636626487:0;ls components
+: 1636626678:0;ls
+: 1636626891:0;clear
+: 1636626892:0;ls
+: 1636627216:0;ls components
+: 1636627220:0;ls
+: 1636627235:0;touch components/CommitMessage.js
+: 1636627671:0;clear
+: 1636627673:0;ls
+: 1636627702:0;npm start
+: 1636627801:0;clear
+: 1636627823:0;npm start
+: 1636627844:0;git add .
